@@ -1,0 +1,163 @@
+@media(min-width:1400px){
+    
+}
+@media(max-width:1399px){
+    
+}
+@media(max-width:1199px){
+    
+}
+@media(max-width:991px){
+    .nav-item {
+        display: inherit;
+        margin: auto;
+    }
+    .feedback_hed h1 {
+        font-size: 29px;
+    }
+    .c_u_logo_info ul li {
+        width: 33px;
+        height: 33px;
+    }
+    .c_u_logo_info ul li a {
+        font-size: 18px;
+    }
+    .c_u_content{
+        margin-left: 5px;
+    }
+    .left_content p {
+        font-size: 12px;
+    }
+    .right_content ul li {
+        margin-left: 6px;
+    }
+    .right_content ul li a {
+        font-size: 12px;
+    }
+    .blog_img img {
+        width: 100%;
+    }
+}
+@media(max-width:767px){
+    .nav-item {
+        display: inherit;
+        margin: auto;
+    }
+    .banner_head h1 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+    .banner_content {
+        margin-bottom: 16px;
+    }
+    .btn_joinus {
+        font-size: 15px;
+    }
+    .phone_img {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+    .phone_img img {
+        margin: 0;
+    }
+    .ret_datails p {
+        margin-bottom: 10px;
+    }
+    .team_man img {
+        width: 80%;
+        margin-top: 10px;
+    }
+    .blog_item {
+        margin-bottom: 18px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-prev i {
+        font-size: 25px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-next i {
+        font-size: 25px;
+    }
+    .right_content ul li {
+        margin: 0;
+     }
+     .right_content ul {
+        display: block;
+     }
+     .blog_img img {
+        width: 100%;
+    }
+
+}
+
+@media(max-width:575px){
+    .nav-item {
+        display: inherit;
+        margin: auto;
+    }
+    .banner_head h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .banner_content {
+        margin-bottom: 10px;
+    }
+    .btn_joinus {
+        font-size: 15px;
+    }
+    .service_heading h1 {
+        font-size: 30px;
+    }
+    .phone_img {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+    .phone_img img {
+        margin: 0;
+    }
+    .sell_icon {
+        width: 30px;
+        height: 30px;
+    }
+    .ret_datails p {
+        margin-bottom: 5px;
+    }
+    .service_heading h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .sell_headding span {
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .team_datials {
+        margin-bottom: 15px;
+    }
+    .form_all form input {
+        font-size: 12px;
+    }
+    .blog_item {
+        margin-bottom: 15px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-prev i {
+        font-size: 20px;
+    }
+    .feedback_sec .owl-carousel .owl-nav .owl-next i {
+        font-size: 20px;
+    }
+    .contuct_hed h4 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .right_content ul li {
+       margin: 0;
+    }
+    .right_content ul {
+       display: block;
+    }
+    .contact_logo img {
+        width: 65%;
+    }
+    .blog_img img {
+        width: 100%;
+    }
+}
